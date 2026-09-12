@@ -89,5 +89,5 @@ Review original identifiers, modality relationships, processing context, and doc
 
 **[Open the template](docs/community-tasks/MULTIMODAL_REUSE_CHECKLIST.md)** | **[Submit your contribution](https://github.com/PhysioVerse-OSE/mps-multimodal-data-standard/issues/new?template=community-contribution.yml)**
 
-Use a real public source, mark missing information explicitly, and send Mostafa the Issue or Pull Request link after submitting.
+Include public source links and identify missing information. Submit the completed template through the linked Issue Form or a pull request.
 <!-- physioverse:task-update-v14:practical-template:end -->

@@ -56,4 +56,4 @@ These are proposed review prompts, not new requirements imposed on every study.
 
 State which intended reuse is supported, which requires more information, and which is not supported. Identify any relevant existing data or metadata standard and cite its version. Do not treat checklist completion as proof that a dataset is suitable for every AI or statistical task.
 
-Submit metadata and source links rather than large raw files in public GitHub Issues. Send Mostafa the Issue or Pull Request link after contributing.
+Submit metadata and source links through the relevant Issue or pull request. Use the PhysioVerse data-submission pathway for data files.
